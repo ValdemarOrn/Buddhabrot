@@ -1,0 +1,20 @@
+
+Generated 2792,9 Million samples in 10,035 sec
+Generated 3007,7 Million samples in 10,805 sec
+Generated 3222,5 Million samples in 11,576 sec
+Generated 3437,4 Million samples in 12,347 sec
+
+278.40 M/sec
+
+Calculated 548,0 Million samples in 11,583 sec
+Calculated 549,0 Million samples in 11,606 sec
+Calculated 550,0 Million samples in 11,615 sec
+Calculated 551,0 Million samples in 11,622 sec
+Calculated 552,0 Million samples in 11,632 sec
+Calculated 553,0 Million samples in 11,644 sec
+Calculated 554,0 Million samples in 11,657 sec
+Calculated 555,0 Million samples in 11,672 sec
+
+47.55 M/sec
+
+Speedup of 5.85

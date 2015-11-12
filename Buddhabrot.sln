@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buddhabrot", "Buddhabrot\Buddhabrot.csproj", "{79F7EABF-AC35-456A-9EAB-A06EE03DEA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buddhabrot.ManagedCuda", "Buddhabrot.ManagedCuda\Buddhabrot.ManagedCuda.csproj", "{E0248E32-2D18-4CC1-BC4B-B5D4B6A8B0BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buddhabrot.Cuda70", "Buddhabrot.Cuda70\Buddhabrot.Cuda70.vcxproj", "{1E864E64-28C1-4385-96F0-024979838F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F7EABF-AC35-456A-9EAB-A06EE03DEA48}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{79F7EABF-AC35-456A-9EAB-A06EE03DEA48}.Debug|x64.Build.0 = Debug|Any CPU
+		{79F7EABF-AC35-456A-9EAB-A06EE03DEA48}.Release|x64.ActiveCfg = Release|Any CPU
+		{79F7EABF-AC35-456A-9EAB-A06EE03DEA48}.Release|x64.Build.0 = Release|Any CPU
+		{E0248E32-2D18-4CC1-BC4B-B5D4B6A8B0BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E0248E32-2D18-4CC1-BC4B-B5D4B6A8B0BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{E0248E32-2D18-4CC1-BC4B-B5D4B6A8B0BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{E0248E32-2D18-4CC1-BC4B-B5D4B6A8B0BA}.Release|x64.Build.0 = Release|Any CPU
+		{1E864E64-28C1-4385-96F0-024979838F2F}.Debug|x64.ActiveCfg = Debug|x64
+		{1E864E64-28C1-4385-96F0-024979838F2F}.Debug|x64.Build.0 = Debug|x64
+		{1E864E64-28C1-4385-96F0-024979838F2F}.Release|x64.ActiveCfg = Release|x64
+		{1E864E64-28C1-4385-96F0-024979838F2F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
